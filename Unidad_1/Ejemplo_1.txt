@@ -1,0 +1,11 @@
+Un ejemplo de archivo TXT
+Primer comando de GIT:
+git status
+Segundo comando de GIT:
+git add .
+Tercer comando de GIT:
+git status
+Cuarto comando de GIT:
+git commit -m "Un enunciado descriptivo del cambio"
+Quinto comando de GIT:
+git push
